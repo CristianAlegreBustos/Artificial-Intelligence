@@ -1,1 +1,1 @@
-# ML--Tree-Classification
+# Artificl Intelligence Projects
